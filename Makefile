@@ -1,8 +1,7 @@
 
-add:
+default:
 	git add .
-
-push:
+	git commit -m "Add notes"
 	git push origin main
 
 status:
